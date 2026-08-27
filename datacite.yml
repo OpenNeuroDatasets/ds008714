@@ -38,6 +38,16 @@ data:
         nameIdentifiers: []
         contributorType: Researcher
         order: 5
+      - name: Jessie Yuen Sum Choy
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: &ref_0
+          - nameIdentifier: https://orcid.org/0000-0003-1424-0024
+            nameIdentifierScheme: ORCID
+            schemeUri: https://orcid.org
+        contributorType: Researcher
+        order: 6
     creators:
       - name: Jessica Norman
         nameType: Personal
@@ -49,6 +59,9 @@ data:
         nameType: Personal
       - name: Christina O. Carlisi
         nameType: Personal
+      - name: Jessie Yuen Sum Choy
+        nameType: Personal
+        nameIdentifiers: *ref_0
     descriptions:
       - description: N/A
         descriptionType: Abstract
