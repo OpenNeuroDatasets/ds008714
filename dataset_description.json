@@ -16,9 +16,9 @@
     "Prudence Trust",
     "Bickbeck-UCL Centre for NeuroImaging (BUCNI)"
   ],
-  "HowToAcknowledge": "TODO: describe how to acknowledge -- either cite a corresponding paper, or just in acknowledgement section",
+  "HowToAcknowledge": "TODO: describe how to acknowledge -- either cite a corresponding paper, or just in acknowledgment section",
   "License": "CC0",
-  "Name": "TODO: name of the dataset",
+  "Name": "NNDb-Teens",
   "ReferencesAndLinks": [
     "https://github.com/jbuzinel/movieproject"
   ]
