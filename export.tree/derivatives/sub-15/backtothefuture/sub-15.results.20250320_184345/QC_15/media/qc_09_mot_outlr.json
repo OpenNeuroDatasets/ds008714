@@ -1,9 +1,0 @@
-{
-    "itemtype": "1D",
-    "itemid": "outlr",
-    "blockid": "mot",
-    "blockid_hov": "motion and outliers",
-    "title": "Check motion and outliers",
-    "text": "Volumetric fraction of outliers",
-    "subtext": "(no censoring applied)"
-}
