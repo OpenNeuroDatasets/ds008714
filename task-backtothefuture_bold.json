@@ -59,7 +59,7 @@
   "SoftwareVersions": "syngo MR E11",
   "SpacingBetweenSlices": 2,
   "StationName": "AWP166108",
-  "TaskName": "TODO: full task name for backtothefuture",
+  "TaskName": "backtothefuture",
   "TotalReadoutTime": 0.0588013,
   "dcmmeta_reorient_transform": [
     [0.0, -1.0, 0.0, 105.0],
