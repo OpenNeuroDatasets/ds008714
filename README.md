@@ -2,7 +2,7 @@
 
 ## Overview
 The dataset is designed to support research into brain function during naturalistic conditions. Data were acquired at 3T, complemented by physiological and behavioral measures.
-Before their visit, participants (N=40) filled out questionnaires about demographic information, language background, mental health and emotion regulation. Participants also completed a set of cognitive tests and Ecological Momentary Assessments over the course of two weeks.
+Before their visit, participants (N=41) filled out questionnaires about demographic information, language background, mental health and emotion regulation. Participants also completed a set of cognitive tests and Ecological Momentary Assessments over the course of two weeks.
 During Session 1, the participant watched the entirety of 'Back To The Future' (backtothefuture), divided into three parts. Eye-tracker calibration was performed before each part. The entire process for Session 1 took about three hours.
 
 ## Data Organization
