@@ -37,27 +37,6 @@ data:
         nameIdentifiers: []
         contributorType: Researcher
         order: 4
-      - name: Fred Dick
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: []
-        contributorType: Researcher
-        order: 5
-      - name: Jeremy J. I. Skipper
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: []
-        contributorType: Researcher
-        order: 6
-      - name: Christina O. Carlisi
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: []
-        contributorType: Researcher
-        order: 7
       - name: Egor Levchenko
         givenName: ''
         familyName: ''
@@ -66,6 +45,27 @@ data:
           - nameIdentifier: https://orcid.org/0000-0002-7256-074X
             nameIdentifierScheme: ORCID
             schemeUri: https://orcid.org
+        contributorType: Researcher
+        order: 5
+      - name: Fred Dick
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 6
+      - name: Jeremy J. I. Skipper
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 7
+      - name: Christina O. Carlisi
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
         contributorType: Researcher
         order: 8
     creators:
@@ -79,15 +79,15 @@ data:
         nameType: Personal
       - name: Jessica Hughes-Nind
         nameType: Personal
+      - name: Egor Levchenko
+        nameType: Personal
+        nameIdentifiers: *ref_2
       - name: Fred Dick
         nameType: Personal
       - name: Jeremy J. I. Skipper
         nameType: Personal
       - name: Christina O. Carlisi
         nameType: Personal
-      - name: Egor Levchenko
-        nameType: Personal
-        nameIdentifiers: *ref_2
     descriptions:
       - description: N/A
         descriptionType: Abstract
