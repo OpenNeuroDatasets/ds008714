@@ -1,0 +1,1 @@
+../../../../.git/annex/objects/5z/X2/SHA256E-s2260--a90bb3e7637de71dbbc4d5f41dec1b864321c440958d2b95be657c6c119cce33.60.sub-39_rh.spec/SHA256E-s2260--a90bb3e7637de71dbbc4d5f41dec1b864321c440958d2b95be657c6c119cce33.60.sub-39_rh.spec
