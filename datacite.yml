@@ -58,6 +58,16 @@ data:
         nameIdentifiers: []
         contributorType: Researcher
         order: 7
+      - name: Egor Levchenko
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: &ref_2
+          - nameIdentifier: https://orcid.org/0000-0002-7256-074X
+            nameIdentifierScheme: ORCID
+            schemeUri: https://orcid.org
+        contributorType: Researcher
+        order: 8
     creators:
       - name: Jure Buzinel
         nameType: Personal
@@ -75,6 +85,9 @@ data:
         nameType: Personal
       - name: Christina O. Carlisi
         nameType: Personal
+      - name: Egor Levchenko
+        nameType: Personal
+        nameIdentifiers: *ref_2
     descriptions:
       - description: N/A
         descriptionType: Abstract
