@@ -48,6 +48,16 @@ data:
         nameIdentifiers: []
         contributorType: Researcher
         order: 6
+      - name: Jure Buzinel
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: &ref_1
+          - nameIdentifier: https://orcid.org/0000-0002-0263-6331
+            nameIdentifierScheme: ORCID
+            schemeUri: https://orcid.org
+        contributorType: Researcher
+        order: 7
     creators:
       - name: Jessie Yuen Sum Choy
         nameType: Personal
@@ -62,6 +72,9 @@ data:
         nameType: Personal
       - name: Christina O. Carlisi
         nameType: Personal
+      - name: Jure Buzinel
+        nameType: Personal
+        nameIdentifiers: *ref_1
     descriptions:
       - description: N/A
         descriptionType: Abstract
