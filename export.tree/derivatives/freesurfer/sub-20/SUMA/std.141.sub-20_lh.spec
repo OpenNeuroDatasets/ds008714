@@ -1,0 +1,1 @@
+../../../../.git/annex/objects/6X/62/SHA256E-s2282--5c19e41b2c22bf73ed44d0dbe80b20e330566f505be044c021f2b20aab468df1.141.sub-20_lh.spec/SHA256E-s2282--5c19e41b2c22bf73ed44d0dbe80b20e330566f505be044c021f2b20aab468df1.141.sub-20_lh.spec
