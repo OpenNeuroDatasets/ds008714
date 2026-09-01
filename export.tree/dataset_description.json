@@ -1,0 +1,28 @@
+{
+    "Acknowledgements": "This work was supported by the Prudence Trust and the Birkbeck-UCL Centre for NeuroImaging (BUCNI). All MRI scanning hours were donated by BUCNI as part of its commitment to open science resources. We would like to thank Letitia Schneider, Roger Atkins, Raha Razin, Oliver Josephs, Joerg Magerkurth, Winnie Yeh and other staff at BUCNI for their support with scanning, Yumeya Yamamori for his support with behavioural task development, Katy Whadcock, Amy Polglase, Adam Talib and Emily De Groot for support with data collection, and the participants and their families for their time and participation in this study.",
+    "Authors": [
+        "Jure Buzinel",
+        "Jessie Y.S. Choi",
+        "Jessica Norman",
+        "Jessica Hughes-Nind",
+        "Egor Levchenko",
+        "Fred Dick",
+        "Jeremy J. Skipper",
+        "Chritina O. Carlisi"
+    ],
+    "BIDSVersion": "1.8.0",
+    "DatasetDOI": "doi:10.18112/openneuro.ds008714.v1.0.1",
+    "Funding": [
+        "Prudence Trust",
+        "Bickbeck-UCL Centre for NeuroImaging (BUCNI)"
+    ],
+    "HowToAcknowledge": "TODO: describe how to acknowledge -- either cite a corresponding paper, or just in acknowledgment section",
+    "License": "CC0",
+    "Name": "Naturalistic Neuroimaging Database - Teens",
+    "ReferencesAndLinks": [
+        "https://github.com/jbuzinel/movieproject"
+    ],
+    "EthicsApprovals": [
+        "University College London Research Ethics Committee (Ethics Project ID number: 22135/003)"
+    ]
+}
