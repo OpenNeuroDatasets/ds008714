@@ -1,0 +1,1 @@
+../../../../.git/annex/objects/zj/qp/SHA256E-s2258--d3799861cbca4676e27c93d9da5fbcf1ecc9800db5358fc570955bddb03c3025.60.sub-03_lh.spec/SHA256E-s2258--d3799861cbca4676e27c93d9da5fbcf1ecc9800db5358fc570955bddb03c3025.60.sub-03_lh.spec
