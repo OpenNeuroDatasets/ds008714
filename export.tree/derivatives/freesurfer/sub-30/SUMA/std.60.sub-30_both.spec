@@ -1,1 +1,0 @@
-../../../../.git/annex/objects/9X/GQ/SHA256E-s4049--a1bb4eccdd5fcc0c486346b098d2ba294c1e0e9221477044a99c7cfa0dff5bdb.60.sub-30_both.spec/SHA256E-s4049--a1bb4eccdd5fcc0c486346b098d2ba294c1e0e9221477044a99c7cfa0dff5bdb.60.sub-30_both.spec
