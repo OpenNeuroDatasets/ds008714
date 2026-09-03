@@ -1,0 +1,1 @@
+../../../../.git/annex/objects/zg/5k/SHA256E-s2699--f18d75b9ad6ac4f112ad9f1d17be300c18f434db4a559d0be717e87568c5b2e9.spec/SHA256E-s2699--f18d75b9ad6ac4f112ad9f1d17be300c18f434db4a559d0be717e87568c5b2e9.spec
