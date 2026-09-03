@@ -1,0 +1,20 @@
+{
+   "copy_anat": [
+      "anatSS.sub-22+orig.HEAD"
+   ],
+   "errts_dset": [
+      "errts.22_REML+tlrc.HEAD"
+   ],
+   "mask_dset": [
+      "mask_epi_anat.22+tlrc.HEAD"
+   ],
+   "ss_review_dset": [
+      "out.ss_review.22.txt"
+   ],
+   "tlrc_base": [
+      "MNI152_2009_template_SSW.nii.gz"
+   ],
+   "vlines_tcat_dir": [
+      "vlines.pb00.tcat"
+   ]
+}
