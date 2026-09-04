@@ -1,0 +1,17 @@
+0.0.1  Initial data acquired
+TODOs:
+	- verify and possibly extend information in participants.tsv (see for example http://datasets.datalad.org/?dir=/openfmri/ds000208)
+	- fill out dataset_description.json, README, sourcedata/README (if present)
+	- provide _events.tsv file for each _bold.nii.gz with onsets of events (see  '8.5 Task events'  of BIDS specification)
+1.0.5 2026-09-04
+  - preprint added
+1.0.4 2026-09-02
+  - names
+1.0.3 2026-09-02
+  - small name fix
+1.0.2 2026-09-01
+  - Authors update
+1.0.1 2026-09-01
+  - updated authors, taskname, ethics
+1.0.0 2026-08-28
+  - public version 1
