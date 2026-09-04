@@ -1,1 +1,0 @@
-../../../../.git/annex/objects/3X/J2/SHA256E-s1502--1c22d5cb7dd8eea7e0f934dc3f25f31605f4543fb5d081460ceab6aba398317d.label_intensities.txt/SHA256E-s1502--1c22d5cb7dd8eea7e0f934dc3f25f31605f4543fb5d081460ceab6aba398317d.label_intensities.txt
