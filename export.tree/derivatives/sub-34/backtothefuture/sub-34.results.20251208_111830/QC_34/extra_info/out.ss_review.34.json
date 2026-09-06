@@ -1,0 +1,66 @@
+{
+    "subject ID": "34",
+    "AFNI version": "AFNI_23.0.03",
+    "AFNI package": "linux_ubuntu_16_64",
+    "TR": "1.5",
+    "TRs removed (per run)": "8",
+    "multiband level": "1",
+    "slice timing pattern": "simult",
+    "num stim classes provided": "1",
+    "final anatomy dset": "anat_final.34+tlrc.HEAD",
+    "final stats dset": "stats.34_REML+tlrc.HEAD",
+    "orig voxel counts": [
+        "106",
+        "106",
+        "72"
+    ],
+    "orig voxel resolution": [
+        "2.000000",
+        "2.000000",
+        "2.000000"
+    ],
+    "orig volume center": [
+        "-1.000000",
+        "-7.024109",
+        "12.650602"
+    ],
+    "final voxel resolution": [
+        "2.000000",
+        "2.000000",
+        "2.000000"
+    ],
+    "motion limit": "0.3",
+    "num TRs above mot limit": "99",
+    "average motion (per TR)": "0.095797",
+    "max motion displacement": "3.26603",
+    "average outlier frac (TR)": "0.00276301",
+    "flip guess": "NO_FLIP",
+    "num runs found": "3",
+    "num TRs per run": [
+        "1352",
+        "1506",
+        "1592"
+    ],
+    "TRs total": "4450",
+    "degrees of freedom used": "183",
+    "degrees of freedom left": "4267",
+    "final DF fraction": "0.958876",
+    "num regs of interest": "1",
+    "num TRs per stim": "3546",
+    "ave mot per sresp": "0.094654",
+    "TSNR average": "93.1535",
+    "global correlation (GCOR)": "0.00197476",
+    "anat/EPI mask Dice coef": "0.498728",
+    "anat/templ mask Dice coef": "0.942496",
+    "maximum F-stat (masked)": "941.024",
+    "blur estimates (ACF)": [
+        "0.750525",
+        "2.17544",
+        "7.41407"
+    ],
+    "blur estimates (FWHM)": [
+        "0",
+        "0",
+        "0"
+    ]
+}
