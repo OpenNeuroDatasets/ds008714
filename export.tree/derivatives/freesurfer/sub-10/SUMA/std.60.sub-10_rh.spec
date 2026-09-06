@@ -1,0 +1,1 @@
+../../../../.git/annex/objects/VM/5k/SHA256E-s2260--221a30294359aee2acfdecf24b0046a736047f2bf70e6b7feb7866e7b7b6b5a2.60.sub-10_rh.spec/SHA256E-s2260--221a30294359aee2acfdecf24b0046a736047f2bf70e6b7feb7866e7b7b6b5a2.60.sub-10_rh.spec
