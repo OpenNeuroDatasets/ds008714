@@ -1,1 +1,0 @@
-../../../../.git/annex/objects/8P/Xq/SHA256E-s28--619f34d4bf9dae1d8e1c45982f05caadc7d817e4572c1eb40df8c5750824836d.min_outlier.txt/SHA256E-s28--619f34d4bf9dae1d8e1c45982f05caadc7d817e4572c1eb40df8c5750824836d.min_outlier.txt
