@@ -1,0 +1,1 @@
+../../../../.git/annex/objects/VK/7f/SHA256E-s2282--cdf4a0a2d1bc592aff01fe0adc2d0c4a626eb99507dcab9312b308a396e3f4f6.141.sub-11_rh.spec/SHA256E-s2282--cdf4a0a2d1bc592aff01fe0adc2d0c4a626eb99507dcab9312b308a396e3f4f6.141.sub-11_rh.spec
