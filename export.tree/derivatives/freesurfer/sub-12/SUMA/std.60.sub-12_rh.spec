@@ -1,1 +1,0 @@
-../../../../.git/annex/objects/X4/kX/SHA256E-s2260--3fa4b12207a727136913152fb3d149f43e6f20bff0213c8b866ab6d35d1ef84b.60.sub-12_rh.spec/SHA256E-s2260--3fa4b12207a727136913152fb3d149f43e6f20bff0213c8b866ab6d35d1ef84b.60.sub-12_rh.spec
