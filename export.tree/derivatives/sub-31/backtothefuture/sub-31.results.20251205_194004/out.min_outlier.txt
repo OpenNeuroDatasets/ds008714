@@ -1,1 +1,0 @@
-../../../../.git/annex/objects/qG/wJ/SHA256E-s28--c4fa11d6204191b661112b9626d319e0e680e1b6ae4c3a02a6d28c0bbaaf6796.min_outlier.txt/SHA256E-s28--c4fa11d6204191b661112b9626d319e0e680e1b6ae4c3a02a6d28c0bbaaf6796.min_outlier.txt
