@@ -1,1 +1,0 @@
-../../../../.git/annex/objects/zw/v1/SHA256E-s28--c3d3cf78ac87b394ed5db2148e4df766375c8f9c6fe09d606e6c8a862e5e1240.min_outlier.txt/SHA256E-s28--c3d3cf78ac87b394ed5db2148e4df766375c8f9c6fe09d606e6c8a862e5e1240.min_outlier.txt
