@@ -1,1 +1,0 @@
-../../../../.git/annex/objects/4K/zz/SHA256E-s2258--28c204cdd752f66a38aa9a5bb319c51c474ebfd189802bc2e66bdd2e3ee07acb.60.sub-02_lh.spec/SHA256E-s2258--28c204cdd752f66a38aa9a5bb319c51c474ebfd189802bc2e66bdd2e3ee07acb.60.sub-02_lh.spec
