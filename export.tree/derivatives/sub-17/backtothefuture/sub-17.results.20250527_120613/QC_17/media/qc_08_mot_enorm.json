@@ -1,9 +1,0 @@
-{
-    "itemtype": "1D",
-    "itemid": "enorm",
-    "blockid": "mot",
-    "blockid_hov": "motion and outliers",
-    "title": "Check motion and outliers",
-    "text": "Motion Euclidean norm (enorm)",
-    "subtext": "(no censoring applied)"
-}
