@@ -1,0 +1,11 @@
+{
+    "itemtype": "VOL",
+    "itemid": "Full_Fstat",
+    "blockid": "vstat",
+    "blockid_hov": "statistics vols",
+    "title": "Check statistics vols (and effect estimates)",
+    "text": [
+        "olay: [0] 'Full_Fstat' (in stats.16_REML)",
+        " thr: [0] 'Full_Fstat' (df = 1 4266)"
+    ]
+}
