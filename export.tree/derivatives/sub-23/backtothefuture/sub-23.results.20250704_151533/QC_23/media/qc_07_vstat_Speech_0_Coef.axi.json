@@ -1,0 +1,11 @@
+{
+    "itemtype": "VOL",
+    "itemid": "Speech_0_Coef",
+    "blockid": "vstat",
+    "blockid_hov": "statistics vols",
+    "title": "Check statistics vols (and effect estimates)",
+    "text": [
+        "olay: [1] 'Speech#0_Coef' (in stats.23_REML)",
+        " thr: [2] 'Speech#0_Tstat' (df = 4266)"
+    ]
+}
