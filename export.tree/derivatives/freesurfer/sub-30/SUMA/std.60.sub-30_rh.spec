@@ -1,1 +1,0 @@
-../../../../.git/annex/objects/0k/Gv/SHA256E-s2260--bc086afb2acf1417edb544e57c467c30ef02bd97eeec5f4132829d3a85badea4.60.sub-30_rh.spec/SHA256E-s2260--bc086afb2acf1417edb544e57c467c30ef02bd97eeec5f4132829d3a85badea4.60.sub-30_rh.spec
