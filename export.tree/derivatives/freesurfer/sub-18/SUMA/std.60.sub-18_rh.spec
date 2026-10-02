@@ -1,0 +1,1 @@
+../../../../.git/annex/objects/pg/PW/SHA256E-s2260--df68fde911d333c5596b8192efb6f54931797206bb8892e1ee4f8f3c39177dea.60.sub-18_rh.spec/SHA256E-s2260--df68fde911d333c5596b8192efb6f54931797206bb8892e1ee4f8f3c39177dea.60.sub-18_rh.spec
