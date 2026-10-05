@@ -1,1 +1,0 @@
-../../../../.git/annex/objects/5w/Qm/SHA256E-s2260--82c8ccf4c79a4e0f612f13d49cc1a4315b9c5ff8774f645069c6294af34a107e.60.sub-21_lh.spec/SHA256E-s2260--82c8ccf4c79a4e0f612f13d49cc1a4315b9c5ff8774f645069c6294af34a107e.60.sub-21_lh.spec
