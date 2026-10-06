@@ -1,0 +1,11 @@
+{
+    "itemtype": "VOL",
+    "itemid": "tsnr_fin",
+    "blockid": "regr",
+    "blockid_hov": "regressors",
+    "title": "Check regressors, DFs and residuals",
+    "text": [
+        "olay: TSNR.27 (final TSNR dset)",
+        "mask: mask_epi_anat.27 (for percentile range)"
+    ]
+}
