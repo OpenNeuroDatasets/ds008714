@@ -1,0 +1,1 @@
+../../../../.git/annex/objects/4P/50/SHA256E-s2703--832ada230654fdcd2569e3018922db10ee2ccc5fee55f592fe727c1769146fe1.spec/SHA256E-s2703--832ada230654fdcd2569e3018922db10ee2ccc5fee55f592fe727c1769146fe1.spec
