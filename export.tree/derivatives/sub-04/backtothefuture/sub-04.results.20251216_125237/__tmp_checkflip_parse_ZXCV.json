@@ -1,9 +1,0 @@
-{
-    "flip_cost_orig": -0.50888,
-    "flip_cost_flipped": -0.146543,
-    "flip_cost_func": "lpc+ZZ",
-    "flip_base": "vr_base_min_outlier_ts_ns+orig",
-    "flip_dset_orig": "anatSS.sub-4_al_junk+orig",
-    "flip_dset_flipped": "anatSS.sub-4_flip_al_junk+orig",
-    "flip_guess": "NO_FLIP"
-}
