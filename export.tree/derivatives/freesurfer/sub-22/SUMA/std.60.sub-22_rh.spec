@@ -1,0 +1,1 @@
+../../../../.git/annex/objects/28/G9/SHA256E-s2260--b25d7f1bbca3503095eb93d7a4a660c72764efccb20f34a96fb8715605ca69de.60.sub-22_rh.spec/SHA256E-s2260--b25d7f1bbca3503095eb93d7a4a660c72764efccb20f34a96fb8715605ca69de.60.sub-22_rh.spec
