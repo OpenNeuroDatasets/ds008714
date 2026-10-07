@@ -1,8 +1,0 @@
-{
-    "itemtype": "VOL",
-    "itemid": "Speech_0_Coef",
-    "blockid": "vstat",
-    "blockid_hov": "statistics vols",
-    "title": "Check statistics vols (and effect estimates)",
-    "subtext": "SHOW_PBAR:qc_07_vstat_Speech_0_Coef.pbar.json"
-}
