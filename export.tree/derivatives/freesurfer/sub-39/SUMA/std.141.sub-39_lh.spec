@@ -1,0 +1,1 @@
+../../../../.git/annex/objects/kZ/12/SHA256E-s2282--f1993553eefab705045d05d94acc8f2660d07f280dca5d421f25ffc23bb24916.141.sub-39_lh.spec/SHA256E-s2282--f1993553eefab705045d05d94acc8f2660d07f280dca5d421f25ffc23bb24916.141.sub-39_lh.spec
