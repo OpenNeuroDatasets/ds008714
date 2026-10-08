@@ -1,1 +1,0 @@
-../../../../.git/annex/objects/QX/Q1/SHA256E-s1502--2c052275dab979c0e53870cc0662bf849cad9cf2d85ae8c9c90e2e2e119e4f7c.label_intensities.txt/SHA256E-s1502--2c052275dab979c0e53870cc0662bf849cad9cf2d85ae8c9c90e2e2e119e4f7c.label_intensities.txt
