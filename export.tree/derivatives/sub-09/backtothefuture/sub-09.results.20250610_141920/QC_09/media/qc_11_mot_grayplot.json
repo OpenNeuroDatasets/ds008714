@@ -1,9 +1,0 @@
-{
-    "itemtype": "1D",
-    "itemid": "grayplot",
-    "blockid": "mot",
-    "blockid_hov": "motion and outliers",
-    "title": "Check motion and outliers",
-    "text": "Grayplot ('-pvorder') of residuals dset: errts.9_REML",
-    "subtext": "SHOW_PBAR:qc_11_mot_grayplot.pbar.json"
-}
