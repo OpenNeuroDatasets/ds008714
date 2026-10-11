@@ -1,0 +1,1 @@
+../../../../.git/annex/objects/mg/Xg/SHA256E-s2727--cc6ecb6461173cbae807d6ba9230f9559602cf0ffe43fada22a4c9b1441e74fa.spec/SHA256E-s2727--cc6ecb6461173cbae807d6ba9230f9559602cf0ffe43fada22a4c9b1441e74fa.spec
