@@ -1,0 +1,1 @@
+../../../../.git/annex/objects/kj/1w/SHA256E-s2260--b032ffb090ab178b8f51997192bbd6b84185d75ba72e6cbb67029cf60388835a.60.sub-22_lh.spec/SHA256E-s2260--b032ffb090ab178b8f51997192bbd6b84185d75ba72e6cbb67029cf60388835a.60.sub-22_lh.spec
