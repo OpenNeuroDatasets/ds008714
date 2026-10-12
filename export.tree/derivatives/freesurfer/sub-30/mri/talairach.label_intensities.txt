@@ -1,1 +1,0 @@
-../../../../.git/annex/objects/Kf/4f/SHA256E-s1502--17df6e18f1c2253c4c0bb36c4042cbfb9e44f95debd2a371afab8f7f7263b880.label_intensities.txt/SHA256E-s1502--17df6e18f1c2253c4c0bb36c4042cbfb9e44f95debd2a371afab8f7f7263b880.label_intensities.txt
