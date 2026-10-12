@@ -1,1 +1,0 @@
-../../../../.git/annex/objects/K3/94/SHA256E-s2260--16c2032ac3a1f70e61ac6af8e49fa2632dccfc5f307befb8ff911c8af4880ba8.60.sub-19_rh.spec/SHA256E-s2260--16c2032ac3a1f70e61ac6af8e49fa2632dccfc5f307befb8ff911c8af4880ba8.60.sub-19_rh.spec
