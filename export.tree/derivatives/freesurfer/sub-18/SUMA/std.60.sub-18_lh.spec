@@ -1,1 +1,0 @@
-../../../../.git/annex/objects/4W/FP/SHA256E-s2260--2a5f69b1ccb6c9d4c8f4bda15c77673536c7958c09fe093c241a3ea6bd3a8aee.60.sub-18_lh.spec/SHA256E-s2260--2a5f69b1ccb6c9d4c8f4bda15c77673536c7958c09fe093c241a3ea6bd3a8aee.60.sub-18_lh.spec
