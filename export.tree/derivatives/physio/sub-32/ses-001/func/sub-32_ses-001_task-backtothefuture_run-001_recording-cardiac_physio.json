@@ -1,0 +1,16 @@
+{
+  "SamplingFrequency": 200.0,
+  "StartTime": -10.57,
+  "Columns": [
+    "cardiac",
+    "cardiac_trigger"
+  ],
+  "Manufacturer": "Siemens",
+  "cardiac": {
+    "Description": "Pulse oximetry waveform from Siemens wireless peripheral pulse unit",
+    "Units": "arbitrary"
+  },
+  "cardiac_trigger": {
+    "Description": "Cardiac trigger detected by the scanner (1 = trigger, 0 = no trigger)"
+  }
+}
