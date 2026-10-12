@@ -1,1 +1,0 @@
-../../../../.git/annex/objects/86/mj/SHA256E-s2703--bea0de071aaffccf27efb45043ac8bf2d02f714837bdeb95f4cc7f4011198161.spec/SHA256E-s2703--bea0de071aaffccf27efb45043ac8bf2d02f714837bdeb95f4cc7f4011198161.spec
